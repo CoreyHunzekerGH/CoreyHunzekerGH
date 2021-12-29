@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoreyHunzekerGH
-- 👀 I’m interested in Java, HTML5, CSS, and JavaScript
+- 👀 I’m interested in Java, HTML5, JavaScript, C++, and Rust
 - 🌱 I’m currently learning Java
 - 📫 You can reach me at ca.hunzeker@gmail.com
 
