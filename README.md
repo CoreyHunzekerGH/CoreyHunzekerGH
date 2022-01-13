@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CoreyHunzekerGH
 - 👀 I’m interested in Java, HTML5, JavaScript, C++, and Rust
 - 🌱 I’m currently learning Java
+- I will be taking a Java certification test in the next 2 weeks.
 - 📫 You can reach me at ca.hunzeker@gmail.com
 
 <!---
