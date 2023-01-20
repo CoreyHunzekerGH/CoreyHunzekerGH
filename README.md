@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @CoreyHunzekerGH
-- 👀 I’m interested in Java, HTML5, JavaScript, C++, and Rust
-- 🌱 I’m currently learning Java - Microsoft Certified
-- 📫 You can reach me at ca.hunzeker@gmail.com
+- Undergrad at the University of Arizona, CS Major
